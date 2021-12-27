@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-27T06:01:41Z" name="Default suite" finished-at="2021-12-27T06:02:16Z" duration-ms="34558">
+    <groups>
+    </groups>
+    <test started-at="2021-12-27T06:01:41Z" name="Default test" finished-at="2021-12-27T06:02:16Z" duration-ms="34558">
+      <class name="pharmacy.ValidatingTheHalfPriceStoreFunctionality">
+        <test-method is-config="true" signature="classSetup()[pri:0, instance:pharmacy.ValidatingTheHalfPriceStoreFunctionality@69637b10]" started-at="2021-12-27T06:01:41Z" name="classSetup" finished-at="2021-12-27T06:01:42Z" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:pharmacy.ValidatingTheHalfPriceStoreFunctionality@69637b10]" started-at="2021-12-27T06:01:42Z" name="setup" finished-at="2021-12-27T06:02:08Z" duration-ms="26209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkingTheFunctionalityOfNextSymbol()[pri:2, instance:pharmacy.ValidatingTheHalfPriceStoreFunctionality@69637b10]" started-at="2021-12-27T06:02:08Z" name="checkingTheFunctionalityOfNextSymbol" finished-at="2021-12-27T06:02:12Z" duration-ms="3999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingTheFunctionalityOfNextSymbol -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:pharmacy.ValidatingTheHalfPriceStoreFunctionality@69637b10]" started-at="2021-12-27T06:02:12Z" name="closing" finished-at="2021-12-27T06:02:16Z" duration-ms="3578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- pharmacy.ValidatingTheHalfPriceStoreFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

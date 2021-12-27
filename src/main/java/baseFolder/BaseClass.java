@@ -11,13 +11,14 @@ import org.apache.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
-	WebDriver driver;
+	public WebDriver driver;
 	Properties property;
-	org.apache.logging.log4j.Logger log;
+	public org.apache.logging.log4j.Logger log;
 	public BaseClass() {
 		log= LogManager.getLogger();
 		property=new Properties();
@@ -40,8 +41,10 @@ public class BaseClass {
 	
 	public void browserSetup() {
 		WebDriverManager.chromedriver().setup();
-		driver=new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		ChromeOptions option=new ChromeOptions();
+		option.addArguments("--disable-notifications");
+		driver=new ChromeDriver(option);
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
 		driver.manage().window().maximize();
 		log.info("Browser setup completed successfully");
 	}
