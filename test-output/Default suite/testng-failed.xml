@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pharmacy.ValidatingTheHalfPriceStoreFunctionality">
+      <class name="docters.ValidatingThePopularCityOptions">
         <methods>
-          <include name="closing"/>
+          <include name="closingClass"/>
+          <include name="verifyingTheResultsOfCitysButton"/>
+          <include name="methodSetup"/>
           <include name="classSetup"/>
-          <include name="checkingTheFunctionalityOfNextSymbol"/>
-          <include name="setup"/>
         </methods>
-      </class> <!-- pharmacy.ValidatingTheHalfPriceStoreFunctionality -->
+      </class> <!-- docters.ValidatingThePopularCityOptions -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

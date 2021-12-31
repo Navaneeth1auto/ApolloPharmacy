@@ -1,60 +1,137 @@
-2021-12-27 10:00:57,820 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:01:28,922 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:01:40,295 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:01:40,900 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:04:25,546 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:04:42,024 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:04:51,823 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:04:52,047 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:04:58,284 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:05:09,175 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:05:09,180 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:05:10,759 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 10:06:28,825 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:06:57,282 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:07:05,057 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:07:05,131 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:07:09,695 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:07:20,300 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:07:20,310 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:07:21,201 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 10:14:49,156 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:15:07,347 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:15:14,253 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:15:14,403 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:15:20,576 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:15:33,854 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:15:33,864 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:15:35,142 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 10:19:29,801 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:19:50,110 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:19:58,816 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:19:59,163 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:20:14,500 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:20:30,057 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:20:30,069 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:20:31,336 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 10:42:35,606 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:42:55,959 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:43:07,524 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:43:07,641 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:44:17,587 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:44:32,364 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 10:44:40,270 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 10:44:40,564 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 10:44:42,236 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 11:10:55,464 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:11:15,799 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 11:11:23,498 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 11:11:23,794 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:11:25,570 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 11:17:15,402 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:17:29,418 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 11:17:38,560 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 11:17:38,991 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:17:41,202 INFO u.OperationHelper [main] Click operation successful
-2021-12-27 11:31:41,841 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:31:57,684 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Browser setup completed successfully
-2021-12-27 11:32:08,915 INFO p.ValidatingTheHalfPriceStoreFunctionality [main] Page Title : Online Medical Store, Online Medicine Order, Fastest Delivery - Apollo Pharmacy
-2021-12-27 11:32:09,312 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-27 11:32:11,643 INFO u.OperationHelper [main] Click operation successful
+2021-12-31 17:01:41,783 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 17:02:22,729 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 17:03:03,571 INFO b.BaseClass [main] Browser setup completed successfully
+2021-12-31 17:03:10,823 INFO b.BaseClass [main] Application opened successfully
+2021-12-31 17:03:18,416 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 17:03:19,378 INFO u.OperationHelper [main] Click operation successful
+2021-12-31 18:08:52,843 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:09:21,899 INFO b.BaseClass [main] Browser setup completed successfully
+2021-12-31 18:09:37,611 INFO b.BaseClass [main] Application opened successfully
+2021-12-31 18:09:44,501 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:09:44,526 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:10:58,699 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:11:14,544 INFO b.BaseClass [main] Browser setup completed successfully
+2021-12-31 18:11:24,932 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:11:25,453 INFO u.OperationHelper [main] Click operation successful
+2021-12-31 18:11:25,477 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:11:25,477 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:15:38,115 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:15:50,260 INFO b.BaseClass [main] Browser setup completed successfully
+2021-12-31 18:15:58,089 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:15:58,610 INFO u.OperationHelper [main] Click operation successful
+2021-12-31 18:15:58,626 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:15:58,626 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] Fail : South Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
+2021-12-31 18:19:12,742 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:19:25,401 INFO b.BaseClass [main] Browser setup completed successfully
+2021-12-31 18:19:36,194 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:19:36,646 INFO u.OperationHelper [main] Click operation successful
+2021-12-31 18:19:36,654 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:19:36,654 INFO b.BaseClass [main] logger and properties file configuration is successful
+2021-12-31 18:19:58,330 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : South Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi

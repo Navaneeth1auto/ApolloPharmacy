@@ -13,12 +13,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	public WebDriver driver;
 	Properties property;
 	public org.apache.logging.log4j.Logger log;
+	public static ExtentSparkReporter extentSpark;
+	public static ExtentReports extentReport;
 	public BaseClass() {
 		log= LogManager.getLogger();
 		property=new Properties();
