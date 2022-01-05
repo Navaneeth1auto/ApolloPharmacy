@@ -118,10 +118,10 @@ public class PharmacyPage extends BaseClass{
 			}
 			
 			String name=driver.findElement(By.xpath("(//div[@id='hotsellers-HOT SELLERS-slider']/descendant::div[contains(@class,'HotSeller_productTitle')])["+i+"]")).getText();   
-			System.out.println(name);
+			log.info(name);
 			String priceStr=driver.findElement(By.xpath("(//div[@id='hotsellers-HOT SELLERS-slider']/descendant::span[contains(text(),'Rs.')]/following-sibling::span)["+i+"]")).getText();
 			String[] priceArray=priceStr.split(" ");
-			System.out.println(Arrays.toString(priceArray));
+			log.info(Arrays.toString(priceArray));
 			Float cost=Float.parseFloat(priceArray[priceArray.length-1]);
 			WebElement addToCartEle=driver.findElement(By.xpath("(//div[@id='hotsellers-HOT SELLERS-slider']/descendant::button[text()='Add To Cart'])["+i+"]"));
 			details=new ProductDetails(name, cost, addToCartEle);
@@ -134,7 +134,7 @@ public class PharmacyPage extends BaseClass{
 //			System.out.println();
 //		}
 		((ProductDetails)productDetailsList.get(0)).getElement().click();
-		System.out.println(" ******  END  *****");
+		log.info(" ******  END  *****");
 	}
 }
 

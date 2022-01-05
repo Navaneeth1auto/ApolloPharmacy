@@ -7,11 +7,12 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
+import baseFolder.BaseClass;
 import utility.OperationHelper;
 import utility.ScrollOptions;
 import utility.WaitClass;
 
-public class HalfPriceStoreInPharmacyPage {
+public class HalfPriceStoreInPharmacyPage extends BaseClass{
 	WebDriver driver;
 	OperationHelper helper;
 	ScrollOptions scroll;
@@ -56,7 +57,7 @@ public class HalfPriceStoreInPharmacyPage {
 				}
 			}
 			catch (Exception e1) {
-				System.out.println("No such Product in Half Price Store");
+				log.info("No such Product in Half Price Store");
 			}
 		}
 

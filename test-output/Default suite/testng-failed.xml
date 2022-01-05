@@ -6,6 +6,7 @@
       <class name="docters.ValidatingThePopularCityOptions">
         <methods>
           <include name="closingClass"/>
+          <include name="checkingTheResultsOFCityOptionInDoctersListPage"/>
           <include name="verifyingTheResultsOfCitysButton"/>
           <include name="methodSetup"/>
           <include name="classSetup"/>

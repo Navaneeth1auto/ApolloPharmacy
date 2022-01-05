@@ -1,137 +1,657 @@
-2021-12-31 17:01:41,783 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 17:02:22,729 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 17:03:03,571 INFO b.BaseClass [main] Browser setup completed successfully
-2021-12-31 17:03:10,823 INFO b.BaseClass [main] Application opened successfully
-2021-12-31 17:03:18,416 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 17:03:19,378 INFO u.OperationHelper [main] Click operation successful
-2021-12-31 18:08:52,843 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:09:21,899 INFO b.BaseClass [main] Browser setup completed successfully
-2021-12-31 18:09:37,611 INFO b.BaseClass [main] Application opened successfully
-2021-12-31 18:09:44,501 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:09:44,526 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:10:58,699 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:11:14,544 INFO b.BaseClass [main] Browser setup completed successfully
-2021-12-31 18:11:24,932 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:11:25,453 INFO u.OperationHelper [main] Click operation successful
-2021-12-31 18:11:25,477 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:11:25,477 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:15:38,115 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:15:50,260 INFO b.BaseClass [main] Browser setup completed successfully
-2021-12-31 18:15:58,089 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:15:58,610 INFO u.OperationHelper [main] Click operation successful
-2021-12-31 18:15:58,626 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:15:58,626 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,525 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] Fail : South Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,526 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:16:20,534 INFO b.BaseClass [main] PASS : Delhi
-2021-12-31 18:19:12,742 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:19:25,401 INFO b.BaseClass [main] Browser setup completed successfully
-2021-12-31 18:19:36,194 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:19:36,646 INFO u.OperationHelper [main] Click operation successful
-2021-12-31 18:19:36,654 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:19:36,654 INFO b.BaseClass [main] logger and properties file configuration is successful
-2021-12-31 18:19:58,330 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,334 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : South Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,335 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
-2021-12-31 18:19:58,343 INFO b.BaseClass [main] Fail : Delhi
+2022-01-03 09:31:15,618 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:31:42,495 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 09:31:59,368 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:31:59,377 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:32:00,416 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 09:32:00,526 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:32:00,528 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:32:00,534 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:33:12,656 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,657 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,657 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,657 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,657 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,658 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,658 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,658 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,659 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,660 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,660 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,660 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,661 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,661 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,661 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,662 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,662 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,662 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,662 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,663 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,663 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,663 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,664 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,664 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,664 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,665 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,665 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:33:12,666 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:33:12,666 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:33:12,667 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:33:12,667 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,668 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,668 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,668 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,669 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,669 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,670 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,670 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,671 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,671 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,671 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,672 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,672 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,673 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,673 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,673 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,673 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,673 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,674 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,674 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:33:12,675 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:33:12,675 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,675 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,675 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Nellore
+2022-01-03 09:33:12,676 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:33:12,677 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,677 INFO b.BaseClass [main] Fail : Tiruvallur
+2022-01-03 09:33:12,677 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,677 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,678 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,678 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,678 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,679 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,680 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,680 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,680 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,680 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,680 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:33:12,681 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,681 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,681 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,681 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,682 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,682 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:33:12,682 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,682 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,683 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,683 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,683 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,683 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:33:12,683 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,684 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,684 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,684 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,684 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Gurugram
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,685 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,686 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,686 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,686 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,686 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,687 INFO b.BaseClass [main] Fail : Kanpur
+2022-01-03 09:33:12,687 INFO b.BaseClass [main] Fail : Madurai
+2022-01-03 09:33:12,687 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,687 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,688 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:33:12,688 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,689 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,689 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:33:12,691 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,691 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:33:12,692 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,692 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,692 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:33:12,693 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:33:12,693 INFO b.BaseClass [main] Fail : Tiruvallur
+2022-01-03 09:36:40,378 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:36:52,116 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 09:36:58,498 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:36:58,513 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:37:07,960 INFO u.OperationHelper [main] Time out Exception org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Top Specialties']/parent::div/following-sibling::div/descendant::h3[text()='Dermatology']' (tried for 5 second(s) with 500 milliseconds interval)
+2022-01-03 09:37:37,079 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:37:44,898 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 09:37:51,931 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:37:51,944 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:38:01,975 INFO u.OperationHelper [main] Time out Exception org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h2[text()='Top Specialties']/parent::div/following-sibling::div/descendant::h3[text()='Dermatology']' (tried for 5 second(s) with 500 milliseconds interval)
+2022-01-03 09:39:16,570 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:39:28,760 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 09:39:43,742 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:39:43,891 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:39:44,688 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 09:39:44,743 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:39:44,745 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:39:44,746 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:42:41,346 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,347 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,348 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,348 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,349 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,349 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,349 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,349 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,350 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,350 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,350 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,351 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,351 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,351 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,351 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,352 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,352 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,352 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,352 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,352 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,353 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,354 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,354 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,354 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,354 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,355 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,355 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:42:41,355 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:42:41,355 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:42:41,356 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:42:41,356 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,356 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,356 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,357 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,357 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,357 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,357 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,358 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,360 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,360 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,360 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,361 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,361 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,362 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,362 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,362 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,363 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,363 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,363 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,363 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,365 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,368 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,369 INFO b.BaseClass [main] Fail : Nellore
+2022-01-03 09:42:41,370 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,370 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,371 INFO b.BaseClass [main] Fail : Tiruvallur
+2022-01-03 09:42:41,371 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,371 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:42:41,371 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,371 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,372 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,372 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,372 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,372 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,372 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,373 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,373 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:42:41,373 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,373 INFO b.BaseClass [main] Fail : Kanpur
+2022-01-03 09:42:41,374 INFO b.BaseClass [main] Fail : Gurugram
+2022-01-03 09:42:41,375 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,375 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,376 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,377 INFO b.BaseClass [main] Fail : Tiruvallur
+2022-01-03 09:42:41,377 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,377 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,377 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,377 INFO b.BaseClass [main] Fail : Madurai
+2022-01-03 09:42:41,378 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,378 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,378 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,378 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,378 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,379 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,379 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,379 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,379 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,379 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,380 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,380 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,380 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,380 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,381 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,381 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,381 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,381 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,381 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,382 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,382 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,382 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,383 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,383 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,383 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,383 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,383 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,384 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,384 INFO b.BaseClass [main] Fail : Madurai
+2022-01-03 09:42:41,384 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,384 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,384 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,385 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,385 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:42:41,385 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:42:41,385 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,386 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,387 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,387 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:42:41,387 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,388 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,388 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,388 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,388 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,388 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,389 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,391 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,391 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:42:41,391 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:42:41,392 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,392 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,392 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,392 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,393 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,393 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,393 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,393 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,394 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Madurai
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,395 INFO b.BaseClass [main] Fail : Aragonda
+2022-01-03 09:42:41,396 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,396 INFO b.BaseClass [main] Fail : Bilaspur
+2022-01-03 09:42:41,397 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,397 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,398 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,401 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,401 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,405 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,406 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,407 INFO b.BaseClass [main] Fail : Madurai
+2022-01-03 09:42:41,408 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,408 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,408 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,409 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,411 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,413 INFO b.BaseClass [main] Fail : Kolkata
+2022-01-03 09:42:41,414 INFO b.BaseClass [main] Fail : Lucknow
+2022-01-03 09:42:41,414 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,415 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,415 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,416 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,417 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,417 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,418 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,419 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,419 INFO b.BaseClass [main] Fail : Noida
+2022-01-03 09:42:41,419 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Bhubhaneswar
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Ahmedabad
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,420 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,421 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,421 INFO b.BaseClass [main] Fail : Kolkata
+2022-01-03 09:42:41,421 INFO b.BaseClass [main] Fail : Guwahati
+2022-01-03 09:42:41,421 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,421 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,422 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,423 INFO b.BaseClass [main] Fail : Patna
+2022-01-03 09:42:41,424 INFO b.BaseClass [main] Fail : Visakhapatnam
+2022-01-03 09:42:41,424 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,424 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,424 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,425 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,425 INFO b.BaseClass [main] Fail : Pune
+2022-01-03 09:42:41,425 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,425 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,425 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,426 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 09:42:41,428 INFO b.BaseClass [main] Fail : Hyderabad
+2022-01-03 09:42:41,428 INFO b.BaseClass [main] Fail : Bangalore
+2022-01-03 09:42:41,448 ERROR b.BaseClass [main] Compare Location Failed 
+2022-01-03 09:45:08,070 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:22,494 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 09:45:29,881 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:29,890 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:30,565 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 09:45:30,580 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:30,581 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:30,582 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 09:45:51,935 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,935 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,935 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,936 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,936 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,936 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,936 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,936 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,937 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,937 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,937 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,937 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,938 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,938 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,938 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,938 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,938 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,939 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,939 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,939 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,939 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,939 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,940 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,940 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,940 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,941 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,941 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,941 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,941 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,942 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,942 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,942 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:45:51,942 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:45:51,943 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:45:51,943 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 09:45:51,943 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,943 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,943 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,944 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,944 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,944 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,944 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,945 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,945 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,945 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,945 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,945 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,946 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,946 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,946 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,946 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,946 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,947 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,947 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,947 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 09:45:51,952 ERROR b.BaseClass [main] Compare Location Failed java.lang.AssertionError: expected [true] but found [false]
+2022-01-03 10:04:58,156 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:05:39,846 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:05:53,105 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:06:03,414 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:03,470 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:04,068 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:06:04,091 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:04,092 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:04,093 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:26,406 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,407 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,407 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,407 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,408 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,409 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,409 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,409 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,409 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,409 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,410 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,410 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,410 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,410 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,410 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,411 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,411 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,411 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,411 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,411 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,412 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,412 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,412 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,412 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,413 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,413 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,413 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,413 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,414 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:06:26,414 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:06:26,414 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:06:26,414 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:06:26,415 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,415 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,415 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,416 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,416 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,416 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,417 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,417 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,417 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,418 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,418 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,418 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,418 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,418 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,419 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,419 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,419 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:26,419 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:06:31,095 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:06:42,644 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:42,649 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:43,387 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:06:43,389 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:43,391 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:43,392 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:06:50,125 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:06:53,678 INFO b.BaseClass [main] Fail : Chennai
+2022-01-03 10:06:53,678 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:06:53,678 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:06:53,678 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:06:53,678 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:06:53,679 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:06:53,679 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:10:54,893 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:08,143 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:11:16,706 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:16,723 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:17,274 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:11:17,331 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:17,333 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:17,335 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:40,836 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,837 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,837 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,837 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,838 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,838 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,838 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,838 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,839 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,839 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,839 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,839 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,840 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,840 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,840 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,840 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,841 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,841 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,841 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,841 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,842 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,842 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,842 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,842 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,843 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,843 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,843 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,844 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,844 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,844 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,844 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,844 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,845 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:11:40,845 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:11:40,845 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:11:40,845 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:11:40,846 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,846 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,846 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,846 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,846 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,847 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,847 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,847 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,847 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,848 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,848 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,848 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,848 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,849 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,849 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,849 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,849 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,849 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:40,850 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:11:47,585 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:11:56,087 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:56,090 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:56,522 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:11:56,523 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:56,524 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:11:56,526 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:12:02,759 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:12:06,225 INFO b.BaseClass [main] Fail : Guwahati
+2022-01-03 10:12:06,225 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:12:06,225 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:12:06,226 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:12:06,226 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:12:06,226 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:12:06,226 INFO b.BaseClass [main] PASS : Hyderabad
+2022-01-03 10:36:58,574 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:13,777 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:37:22,383 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:22,399 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:23,086 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:37:23,133 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:23,133 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:23,141 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:37:44,807 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,811 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,811 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,811 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,811 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,811 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,812 INFO b.BaseClass [main] PASS : Delhi
+2022-01-03 10:37:44,820 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:37:44,820 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:37:44,820 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:37:44,820 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:37:44,820 INFO b.BaseClass [main] Fail : South Delhi
+2022-01-03 10:37:50,599 INFO b.BaseClass [main] Browser setup completed successfully
+2022-01-03 10:38:03,404 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:38:03,404 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:38:03,836 INFO u.OperationHelper [main] Click operation successful
+2022-01-03 10:38:03,844 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:38:03,844 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:38:03,844 INFO b.BaseClass [main] logger and properties file configuration is successful
+2022-01-03 10:38:09,799 INFO u.OperationHelper [main] Click operation successful

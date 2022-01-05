@@ -26,5 +26,11 @@ public class ScrollOptions {
 	public void ScrollDownToElement(WebElement element) {
 		//helper.visibiltyOfElement(element);
 		js.executeScript("arguments[0].scrollIntoView();", element);
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }

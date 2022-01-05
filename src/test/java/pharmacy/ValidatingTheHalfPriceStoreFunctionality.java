@@ -37,7 +37,7 @@ public class ValidatingTheHalfPriceStoreFunctionality extends BaseClass{
 		log.info("Page Title : "+driver.getTitle());
 	}
 	
-	@Test(priority=2)
+	@Test
 	public void checkingTheFunctionalityOfNextSymbol() throws InterruptedException {
 		shot=new ScreenShotClass(driver);
 		extentLog=extentReport.createTest("Next Symbol click");
@@ -49,7 +49,7 @@ public class ValidatingTheHalfPriceStoreFunctionality extends BaseClass{
 		extentLog.info("before Next click", MediaEntityBuilder.createScreenCaptureFromPath(shot.takeScreenshot("next")).build());
 	}
 	
-	@Test(enabled = false)
+	@Test
 	public void addToCartByProductName() {
 		extentLog=extentReport.createTest("addToCartByProductName");
 		halfPrice=new HalfPriceStoreInPharmacyPage(driver);

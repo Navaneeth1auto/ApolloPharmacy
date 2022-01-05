@@ -4,6 +4,7 @@ import java.time.Duration;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -17,7 +18,7 @@ public class OperationHelper extends BaseClass {
 	public OperationHelper(WebDriver driver) {
 		log=LogManager.getLogger();
 		this.driver=driver;
-		wait=new WebDriverWait(driver, Duration.ofSeconds(2));
+		wait=new WebDriverWait(driver, Duration.ofSeconds(5));
 	}
 
 	public void clickOperation(WebElement element) {
@@ -34,7 +35,11 @@ public class OperationHelper extends BaseClass {
 	}
 	
 	public void visibiltyOfElement(WebElement element) {
+		try {
 		wait.until(ExpectedConditions.visibilityOf(element));
+		}catch (TimeoutException e) {
+			log.info("Time out Exception "+e);
+		}
 	}
 	
 	public void visibilityOfElementsList(List<WebElement> elements) {

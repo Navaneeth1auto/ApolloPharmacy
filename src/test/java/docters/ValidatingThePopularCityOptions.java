@@ -28,32 +28,54 @@ public class ValidatingThePopularCityOptions extends BaseClass{
 		extentSpark=new ExtentSparkReporter(reportFile);
 		extentReport=new ExtentReports();
 		extentReport.attachReporter(extentSpark);
-		browserSetup();
+		
 	}
 	
 	@BeforeMethod
 	public void methodSetup() {
 		//openApplication();
+		browserSetup();
 		driver.get("https://www.apollo247.com/specialties");
+		System.out.println("In Before Method");
 	}
 	
 	@Test(enabled=false)
-	public void chekingTheFunctionalityOfCityButtons() {
+	public  void chekingTheFunctionalityOfCityButtons() {
 		extentLog=extentReport.createTest("Checking the functionality of Delhi button");
 		spList=new DocterSpecialistPage(driver);
 		spList.clickOnDelhi();
 		extentLog.info("Clicked on Delhi succesful");
 	}
 	
-	@Test
-	public void verifyingTheResultsOfCitysButton() {
+	@Test(enabled=false)
+	public  void printDermotologyDoctersDetails() {
+		extentLog=extentReport.createTest("Checking the functionality of Dermotology Button");
+		spList=new DocterSpecialistPage(driver);
+		spList.clickOnDermatologies();
+		extentLog.info("Clicked on Dermatologiest succesful");
+		dcList=new DoctersListPage(driver);
+		dcList.printDocterDetails();
+	}
+	
+	@Test(priority=1)
+	public  void verifyingTheResultsOfCitysButton() {
 		extentLog=extentReport.createTest("checking the results of City list docter");
 		spList=new DocterSpecialistPage(driver);
 		spList.clickOnDelhi();
 		extentLog.info("Clicked on Delhi succesful");
 		dcList=new DoctersListPage(driver);
-		dcList.compareLocation("Hyderabad");
+		dcList.compareLocation("Delhi");
 		extentLog.info("completed");
+	}
+	
+	@Test(enabled=true, priority=3)
+	public void checkingTheResultsOFCityOptionInDoctersListPage() {
+		extentLog=extentReport.createTest("checking Docter Location By city");
+		spList=new DocterSpecialistPage(driver);
+		spList.clickOnSpecialization("Gastroenterology");
+		dcList=new DoctersListPage(driver);
+		dcList.selectCity("Hyderabad");
+		dcList.compareLocation("Hyderabad");
 	}
 	
 	@AfterClass
